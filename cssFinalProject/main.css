@@ -1,0 +1,61 @@
+
+
+
+
+
+a {
+    color: #999;
+    text-decoration: none;
+
+}
+
+body {
+    background-color: black;
+}
+
+.mainnav {
+    height: 60px;
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+    border-bottom: 1px solid rgb(71 225 12);
+    font-size: 1rem;
+    font-weight: 400;
+    align-items: center;
+}
+
+.header {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.bottomheader {
+    color: white;
+    width: 100%;
+    text-align: center;
+    margin: auto;
+    background-color: rgb(85, 85, 85);
+    height: 40px;
+    padding-top: .5em;
+}
+
+.bladepicmain {
+    width: 100%;
+}
+
+.part1content {
+    position: relative;
+    text-align: center;
+
+}
+
+.pic1text {
+    position: absolute;
+    top: 10%;
+    left: 32%;
+    color: white;
+    font-size: 5em;
+    font-family: "RazerF5",Arial,Helvetica,sans-serif;
+
+}
+
